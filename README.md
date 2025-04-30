@@ -1,7 +1,14 @@
 ```markdown
 Sojib Digital
 
-*Sojib Digital* is a basic HTML-based landing page project created to showcase digital marketing services. It includes a clean layout and responsive structure suitable for freelancers or agencies.
+*Sojib Digital* is a basic
+HTML-based landing page
+ project created to
+showcase digital marketing
+services. It includes a
+ clean layout and
+responsive structure suitable
+for freelancers or agencies.
 
 🔧 Technologies Used
 - HTML5
